@@ -6,5 +6,9 @@
     {
         "package": "loopurrr",
         "url": "https://github.com/timteafan/loopurrr"
+    },
+    {
+        "package": "hugodownplus",
+        "url": "https://github.com/timteafan/hugodownplus"
     }
 ]
